@@ -9,25 +9,25 @@ To start using it do following:
 
 2. Install Vundle by doing: 
 	
-   git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+   `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 
 3. Finally download the '.vimrc' file to your root directory:
 
-   https://raw.githubusercontent.com/korytiak/Sveto-vimrc/master/.vimrc
+   `wget https://raw.githubusercontent.com/korytiak/Sveto-vimrc/master/.vimrc`
 
 
 4. Open it in vim with:
 
-   vim .vimrc
+   `vim .vimrc`
 
 
 5. Modify it to your liking and dont forget to run:
 
-   `:w`                                             -save the config file
-   `:so%`                                           -to reload the config file
-   `:PluginInstall`                                 -to install plugins
-   `:PluginUpdate`                                  -to update them
+   1. `:w`                                             -save the config file
+   2. `:so%`                                           -to reload the config file
+   3. `:PluginInstall`                                 -to install plugins
+   4. `:PluginUpdate`                                  -to update them
 
 
 For more info about the ones that I have put in my .vimrc go to each plugins github page and read all about what it does. 
