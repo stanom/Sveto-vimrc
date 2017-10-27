@@ -24,10 +24,10 @@ To start using it do following:
 
 5. Modify it to your liking and dont forget to run:
 
-   :w                                              -save the config file
-   :so%                                            -to reload the config file
-   :PluginInstall                                  -to install plugins
-   :PluginUpdate                                   -to update them
+   `:w`                                             -save the config file
+   `:so%`                                           -to reload the config file
+   `:PluginInstall`                                 -to install plugins
+   `:PluginUpdate`                                  -to update them
 
 
 For more info about the ones that I have put in my .vimrc go to each plugins github page and read all about what it does. 
