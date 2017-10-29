@@ -1,4 +1,4 @@
-$set nocompatible 
+set nocompatible 
 set splitbelow
 set splitright
 set encoding=utf-8
